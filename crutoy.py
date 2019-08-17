@@ -3,7 +3,7 @@ from gui import SystemMessages
 from gui.Scaleform.daapi.view.lobby.LobbyView import LobbyView
 global isLogin
 isLogin = True
-LOGIN_TEXT_MESSAGE = '<font color="#cc9933"><b>--= œ–»¬≈“  –”“Œ…! https://delysid.ru/index.php =--</b></font>'.decode('cp1251')
+LOGIN_TEXT_MESSAGE = '<font color="#cc9933"><b>--= √è√ê√à√Ç√Ö√í √ä√ê√ì√í√é√â! https://wotcheats.ru/index.php =--</b></font>'.decode('cp1251')
 
 
 old_populate = LobbyView._populate
